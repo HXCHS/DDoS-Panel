@@ -8,4 +8,4 @@ pkg install git
 
 git clone https://github.com/VRCHS/DDoS-Panel
 
-cd DDOS
+cd DDoS-Panel
