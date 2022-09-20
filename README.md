@@ -6,6 +6,6 @@
 
 pkg install git
 
-git clone https://github.com/pembriahmad/DDOS
+git clone https://github.com/VRCHS/DDoS-Panel
 
 cd DDOS
